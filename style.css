@@ -6,9 +6,10 @@ html {
 }
 
 body {
-  background: linear-gradient(to right,black,gray)
-  flex-direction: column;
+  background: linear-gradient(to right,black,gray);
   gap: 12px;
+  flex-direction: column;
+  display: flex;
 }
 
 .cn-1 {
