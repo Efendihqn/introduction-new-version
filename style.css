@@ -7,6 +7,8 @@ html {
 
 body {
   background: linear-gradient(to right,black,gray)
+  flex-direction: column;
+  gap: 12px;
 }
 
 .cn-1 {
